@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/BetaPowerEfficientSpaceStation.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/SpecificDamageToUI.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/SafeSuppliesCardDeck.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/Hangar.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/GameCharacter.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/CardDealer.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/main/PlayWithUI.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/Transformation.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/SpecificDamage.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/GameUniverse.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/SpaceStation.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/NumericDamageToUI.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/ExamenP4.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/Damage.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/Dice.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/CardDeck.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/SafeWeaponCardDeck.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/SuppliesPackage.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/SpaceFighter.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/GameState.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/ShieldBooster.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/controller/Controller.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/SafeEnemyCardDeck.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/View/UI/TextMainView.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/BetaPowerEfficientSpaceStationToUI.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/CombatElement.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/CombatResult.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/Weapon.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/SafeShieldBoosterCardDeck.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/WeaponType.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/PowerEfficientSpaceStation.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/ShotResult.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/EnemyStarShip.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/Loot.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/NumericDamage.java</file>
+            <file>file:/home/miguelcant/NetBeansProjects/DeepSpace/src/deepspace/SpaceCity.java</file>
+        </group>
+    </open-files>
+</project-private>
